@@ -11,9 +11,9 @@ Learn Git Branching 사이트를 열어 모든 과제를 직접 끝내 봅시다
 
 자신의 username이 적힌 그림 파일이 하단에 보여야 합니다.
 
-![learn-git-branching-level-1](../resources/learn-git-branching-level1.png)
+![learn_git_brancing_level1](https://user-images.githubusercontent.com/71072930/96540340-69ab4500-12d8-11eb-9abc-110f1f9e01a5.png)
 
-![learn-git-branching-level-2](../resources/learn-git-branching-level2.png)
+![learn_git_brancing_level2](https://user-images.githubusercontent.com/71072930/96540372-85165000-12d8-11eb-99ae-6d9166618dc9.png)
 
 ## 응원의 말
 
